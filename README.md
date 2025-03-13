@@ -17,6 +17,9 @@ This is a simple Python fuzzer designed to test web applications with a list of 
    ```bash
    python fuzzer.py
    ```
+
+## The code:
+
 ```Python
 import requests
 
